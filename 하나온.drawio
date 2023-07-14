@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T13:40:33.604Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NcaAqUgIRGU9Dnb5I1lC" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-14T13:43:18.899Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3B_KoTJcSeo44cZ36iBd" version="21.6.2" type="github">
   <diagram name="페이지-1" id="Tyd9hZyFMOXWsH-rBGiS">
     <mxGraphModel dx="954" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="UVQQwYrs-k6m4sM7kn-I-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UVQQwYrs-k6m4sM7kn-I-6" target="UVQQwYrs-k6m4sM7kn-I-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UVQQwYrs-k6m4sM7kn-I-6" value="NLP" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.machine_learning;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="UVQQwYrs-k6m4sM7kn-I-6" value="machine learning" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.machine_learning;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="550" y="168.75" width="60" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="UVQQwYrs-k6m4sM7kn-I-10" value="api gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" parent="1" vertex="1">
